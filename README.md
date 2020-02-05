@@ -13,5 +13,5 @@ https://cursos.alura.com.br/
 
 ## Agradecimento 
 
-` Obrigado a empresa https://github.com/alura-cursos `pelo curso fornecido, com um conhecimento incrível
-Cada curso que tenho realizado nesta plataforma me levam a um novo nível.
+  Obrigado a empresa https://github.com/alura-cursos pelo curso fornecido, com um conhecimento incrível
+  Cada curso que tenho realizado nesta plataforma me levam a um novo nível.
